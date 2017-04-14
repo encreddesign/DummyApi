@@ -45,7 +45,7 @@
 		"office":"Rugby",
 		"film":"Valiant",
 		"song":"Stan, Eminem",
-		"holiday":true
+		"holiday":false
 	},
 	{
 		"id":12,
@@ -78,5 +78,37 @@
 		"film":"Just a Film",
 		"song":"Just a song",
 		"holiday":true
+	},
+	{
+		"id":61,
+		"name":"PersonSix",
+		"lastname":"Sample",
+		"team":"Managment",
+		"email":"personsix.sample@email.com",
+		"ext":"231",
+		"position":"Assistant Manager",
+		"nicknames":"Just a simpleton",
+		"image":"https://raw.githubusercontent.com/encreddesign/DummyApi/master/images/01.png",
+		"initials":"PS",
+		"office":"London",
+		"film":"Just a Film",
+		"song":"Just a song",
+		"holiday":true
+	},
+	{
+		"id":74,
+		"name":"PersonSeven",
+		"lastname":"Sample",
+		"team":"Design",
+		"email":"personseven.sample@email.com",
+		"ext":"231",
+		"position":"Senior Designer",
+		"nicknames":"Just a simpleton",
+		"image":"https://raw.githubusercontent.com/encreddesign/DummyApi/master/images/01.png",
+		"initials":"PS",
+		"office":"Rugby",
+		"film":"Just a Film",
+		"song":"Just a song",
+		"holiday":false
 	}
 ]
